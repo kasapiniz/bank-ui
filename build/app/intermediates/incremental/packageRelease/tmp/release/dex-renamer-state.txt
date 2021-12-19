@@ -1,0 +1,4 @@
+#Mon Oct 11 14:56:07 TRT 2021
+base.0=C\:\\Users\\mehhm\\Desktop\\flutter_bank\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
